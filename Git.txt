@@ -14,4 +14,10 @@ Git -> it is a VCS(version control system).
 		    3.commit area -> saved in local repo.
 
 #) Git commands :
-	1.git init
+	
+>>git remote add origin https://github.com/SauravDaware/gitterning.git
+>>git branch -M main
+>>git push -u origin main
+
+----------------------------------------------------------
+
