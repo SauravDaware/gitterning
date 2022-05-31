@@ -1,0 +1,17 @@
+Git -> it is a VCS(version control system).
+
+#) Types of VCS :
+	1.centrelize vcs -> database/master/
+		-requires internet
+		-backup is require
+
+	2. Dustributed vcs ->
+		-not require internet all the time.
+		-backup is not require
+
+#)Stages -> 1.Modified area -> modified file
+		    2.staging area -> 
+		    3.commit area -> saved in local repo.
+
+#) Git commands :
+	1.git init
